@@ -1,5 +1,7 @@
 # NJ_Task
 Analysis and Visualization
+
+
 1.
 a) I extracted the data from the resources given, since there were three files provided : The data for the Title1 schools is provided in a pdf format therefore at first converted the datafile into excel and then to csv. I disabled the automatic data transformations for the data file to preserve column integrity (leading zeroes in codes, identifier consistency). Further for the enrollment 2024/2025 file there were three excel sheets within for which I chose the school file specifically since that file is the one needed for addressing the analysis questions. I made sure the extracted datafiles are in csv format to ensure processing and importing it in MySQL.
 
